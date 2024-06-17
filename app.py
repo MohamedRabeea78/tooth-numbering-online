@@ -11,8 +11,8 @@ import helper
 
 # Setting page layout
 st.set_page_config(
-    page_title="Tooth Detection by MahaseenLab",
-    page_icon="🤖",
+    page_title="Preview Tooth Detection System by MahaseenLab",
+    page_icon="🦷",
     layout="wide",
     initial_sidebar_state="expanded"
 )
