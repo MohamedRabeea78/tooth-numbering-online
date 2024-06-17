@@ -14,7 +14,7 @@ def load_model(model_path):
 
 
 def image_config(model, confidence):
-    st.sidebar.header("Image/Video Config")
+    st.sidebar.header("Panoramic Dental X-ray")
     source_radio = st.sidebar.radio("Select Source", settings.SOURCES_LIST)
 
     source_img = None
