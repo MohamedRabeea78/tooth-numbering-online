@@ -19,6 +19,8 @@ st.set_page_config(
  
 # Main page heading
 st.title("Tooth Detection and Numbering")
+st.write("**This system is a preview version, not for commercial use. For the full version, please contact mmasadar@gmail.com.**")
+st.write("____________________________________________________________________________________________________________________")
 
 # Sidebar
 st.sidebar.header("Preview ML Model for Tooth Detection")
